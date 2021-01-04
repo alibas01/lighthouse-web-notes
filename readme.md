@@ -1,3 +1,5 @@
 # Ali Bas's Notes
-# This is an H1 header
-###### This is an H6 header (smallest)
+## Summary 
+
+This repository contains all of the notes taken by [Ali Bas](https://github.com/alibas01) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+
